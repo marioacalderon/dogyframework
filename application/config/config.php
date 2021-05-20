@@ -3,7 +3,7 @@
 // Link base del proyecto
 $settings = [
 	
-	'base_url' 	=> 'http://localhost/framework'
+	'base_url' 	=> ''
 ];
 
 // Parametros de la base de datos
@@ -11,8 +11,8 @@ $database = [
 
 	'host' 		=> 'localhost',
 	'user' 		=> 'root',
-	'password' 	=> 'mysql',
-	'database' 	=> 'mvcframework'
+	'password' 	=> '',
+	'database' 	=> ''
 ];
 
 // Controlador predefinido
